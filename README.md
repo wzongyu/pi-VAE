@@ -11,6 +11,4 @@ Python  3.8
 Cuda  11.3
 
 ## Download
-To download this code, run `git clone https://github.com/zhd96/pi-vae.git`
-
-
+To download this code, run `git clone https://github.com/wzongyu/pi-VAE.git`
