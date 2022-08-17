@@ -2,6 +2,7 @@
 
 This code written by **PyTorch** implements pi-VAE, VAE in paper: Learning identifiable and interpretable latent models of high-dimensional neural activity using pi-VAE.
 
+paper link: https://arxiv.org/abs/2011.04798
 
 ## Environment
 
